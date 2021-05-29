@@ -31,7 +31,7 @@ export default {
   name: 'App',
   data(){
     return {
-      apy_key : 'e0e56769c4f78528e0daac87fc681bf0',
+      apy_key : 'getyoukeyhere',
       uri_base : 'https://api.openweathermap.org/data/2.5/',
       query: '',
       today: '',
